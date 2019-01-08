@@ -170,7 +170,7 @@ in mind."
           <div class="w-46">
             <div class="w-5/6 mx-auto">
               <div class="pt-16">
-                <section-title large text="Our Mission & Goals"/>
+                <section-title large text="Our Mission & Goals" :extraClass="'elephant'"/>
                 <section-subtitle
                   large
                   class="mt-8"
